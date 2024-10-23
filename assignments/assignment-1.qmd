@@ -4,12 +4,45 @@ title: "Assignment 1"
 
 # Assignment 1
 
-```{r}
-1 + 1
-```
-
 My first assignment has two parts.
 
 ## (a)
+```{r}
+
+```
+
 
 ## (b)
+```{r}
+#getting the dataset
+install.packages("dslabs")
+library(dslabs)
+data("polls_us_election_2016")
+#first 10 rows
+ten_rows <- head(polls_us_election_2016, 10)
+ten_rows
+#total number of na's
+total_na <- sum(is.na(polls_us_election_2016))
+total_na
+#replacing na values
+birth_year <- 2002
+name <- "bihter"
+#dataset to modify
+modified_data_set <- polls_us_election_2016
+
+#replace NA values in columns 
+for (i in seq_along(modified_data_set)) {
+  if (is.numeric(modified_data_set[[i]])) {
+    modified_data_set[[i]][is.na(modified_data_set[[i]])] <- birth_year
+  } else if (is.character(modified_data_set[[i]])) {
+    modified_data_set[[i]][is.na(modified_data_set[[i]])] <- name
+  }
+}
+
+
+#display the first 10 rows
+modified_ten_rows <- head(modified_data_set, 10)
+modified_ten_rows
+
+```
+

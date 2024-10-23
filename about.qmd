@@ -5,26 +5,34 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2024 - ongoing.
 
 # Work Experience
 
-## Employements
-
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
-
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
+1.  Papilon Savunma, Overseas Sales Intern, 2024
 
-2.  Firm bbb, position yyy, year yyy
+2.  Turkish Aerospace Industries, Production Planning and Control Intern, 2023
+
+3.  Türk Traktör ve Ziraat Makineleri A.Ş., Sales and Marketing Intern, 2023
+
+4.  Hiperteknoloji Savunma A.Ş., Quality Control Intern, 2022
+
+5.  Trio Entegrasyon Bilişim Teknolojileri, Finance Intern, 2022
 
 # Projects
+
+1.  Türk Traktör ve Ziraat Makineleri A.Ş., Graduation Project
 
 # Competencies
 
 R, Quarto, Git, Python
 
 # Hobbies
+
+Traveling, Reading, Movies
+
+# CV
+
+[bihter_cv.pdf](file:///C:/Users/pc/Desktop/bihter_cv.pdf)
