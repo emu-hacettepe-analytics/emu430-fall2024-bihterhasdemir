@@ -8,6 +8,12 @@ My first assignment has two parts.
 
 ## (a)
 ```{r}
+# I chose to summarize the video where Baykal Hafızoğlu is the guest. 
+
+## Summary
+#
+
+## Question 1
 
 ```
 
@@ -40,9 +46,11 @@ for (i in seq_along(modified_data_set)) {
 }
 
 
-#display the first 10 rows
+#display the first 10 rows and number of na's
 modified_ten_rows <- head(modified_data_set, 10)
 modified_ten_rows
-
+total_na <- sum(is.na(modified_data_set))
+total_na
 ```
+
 
