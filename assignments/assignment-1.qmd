@@ -6,7 +6,7 @@ title: "Assignment 1"
 
 My first assignment has two parts.
 
-## (a)
+## Part 1
 
 ```{I chose to summarize the video where Baykal Hafızoğlu is the guest.}
 
@@ -30,7 +30,7 @@ D) Prescriptive Analytics
 C) Predictive Analytics
 ```
 
-## (b)
+## Part 2
 
 ```{r}
 #getting the dataset
