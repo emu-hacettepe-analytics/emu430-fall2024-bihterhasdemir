@@ -8,27 +8,26 @@ My first assignment has two parts.
 
 ## (a)
 
-```{r}
-#I chose to summarize the video where Baykal Hafızoğlu is the guest. 
+```{I chose to summarize the video where Baykal Hafızoğlu is the guest.}
 
-##Summary
-#Baykal Hafızoğlu talks about his career, his work in data science and industrial engineering, and his personal interests in this interview. Hafızoğlu talks about his experience developing software at Lam Soft and Pred after graduating from university. In addition, he touches on topics such as basic programming, data visualization, and extracting data from the internet in his data science course. Hafızoğlu emphasizes his personal interests in tango dancing, crossfit, and software, and also plans to make a podcast. He explains how data science and industrial engineering come together and how analytical solutions can be used in the business world. This interview also discusses the importance of mathematical modeling and programming skills for business, and the impact of artificial intelligence and demand forecasting in the business world.
+**Summary
+Baykal Hafızoğlu talks about his career, his work in data science and industrial engineering, and his personal interests in this interview. Hafızoğlu talks about his experience developing software at Lam Soft and Pred after graduating from university. In addition, he touches on topics such as basic programming, data visualization, and extracting data from the internet in his data science course. Hafızoğlu emphasizes his personal interests in tango dancing, crossfit, and software, and also plans to make a podcast. He explains how data science and industrial engineering come together and how analytical solutions can be used in the business world. This interview also discusses the importance of mathematical modeling and programming skills for business, and the impact of artificial intelligence and demand forecasting in the business world.
 
-##Question 1
-#Baykal Hafızoğlu discusses analytical processes in four stages. What are these stages and what is the purpose of each stage?
-##Answer:
-#1. Descriptive Analytics: Defines what the problem is by analyzing the data. A clear problem definition is made at the beginning of the project and measurable KPIs are determined.
-#2. Diagnostic Analytics: Examines why the problem occurred based on data.
-#3. Predictive Analytics: Includes analysis methods used to predict what will happen in the future.
-#4. Prescriptive Analytics: Determines what actions should be taken in the future and shows the effects of decision options.
-##Question 2
-#Which type of analytics focuses on predicting possible future events?
-#A) Descriptive Analytics
-#B) Diagnostic Analytics
-#C) Predictive Analytics
-#D) Prescriptive Analytics
-##Answer:
-#C) Predictive Analytics
+**Question 1
+Baykal Hafızoğlu discusses analytical processes in four stages. What are these stages and what is the purpose of each stage?
+**Answer:
+1. Descriptive Analytics: Defines what the problem is by analyzing the data. A clear problem definition is made at the beginning of the project and measurable KPIs are determined.
+2. Diagnostic Analytics: Examines why the problem occurred based on data.
+3. Predictive Analytics: Includes analysis methods used to predict what will happen in the future.
+4. Prescriptive Analytics: Determines what actions should be taken in the future and shows the effects of decision options.
+**Question 2
+Which type of analytics focuses on predicting possible future events?
+A) Descriptive Analytics
+B) Diagnostic Analytics
+C) Predictive Analytics
+D) Prescriptive Analytics
+**Answer:
+C) Predictive Analytics
 ```
 
 ## (b)
