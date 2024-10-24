@@ -21,7 +21,6 @@ My first assignment has two parts.
 ## (b)
 ```{r}
 #getting the dataset
-install.packages("dslabs")
 library(dslabs)
 data("polls_us_election_2016")
 #first 10 rows
