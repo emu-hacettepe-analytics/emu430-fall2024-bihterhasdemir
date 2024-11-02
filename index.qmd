@@ -1,6 +1,7 @@
 ---
 title: "Welcome to My Analytics Lab"
 sidebar: false 
+colortheme: "blue"
 ---
 
 Hello! My name is Bihter Hasdemir.
