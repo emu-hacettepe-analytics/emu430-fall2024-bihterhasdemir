@@ -10,17 +10,3 @@ body {
     color: var(--secondary-color);
 }
 
-
-/* Açık tema */
-:root {
-    --primary-color: #A0C4E1;
-    --secondary-color: #000080;
-}
-
-/* Koyu tema */
-@media (prefers-color-scheme: dark) {
-    :root {
-        --primary-color: #000080;
-        --secondary-color: #A0C4E1;
-    }
-}
