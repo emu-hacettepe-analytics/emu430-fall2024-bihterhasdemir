@@ -1,1 +1,11 @@
 /* css styles */
+
+:root {
+    --primary-color: #FFB347; /* Açık tema rengi */
+    --secondary-color: #000000; /* Yan renk */
+}
+
+body {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
