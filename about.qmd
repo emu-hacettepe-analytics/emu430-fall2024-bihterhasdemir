@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 sidebar: false 
+colortheme: "blue"
 ---
 
 # Education
