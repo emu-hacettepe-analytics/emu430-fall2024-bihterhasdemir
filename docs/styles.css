@@ -1,1 +1,16 @@
 /* css styles */
+
+:root {
+    --primary-color: #A0C4E1; /* Açık tema rengi */
+    --secondary-color: #000080'; /* Yan renk */
+}
+
+body {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
+
+.navbar {
+    background-color: #000080; /* Lacivert */
+}
+
